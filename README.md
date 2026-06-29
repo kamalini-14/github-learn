@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/kamalini-14/github-learn/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/kamalini-14/github-learn/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/kamalini-14/github-learn/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
