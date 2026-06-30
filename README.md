@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kamalini-14/github-learn/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/kamalini-14/github-learn/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kamalini-14/github-learn/tree/master/1004-max-consecutive-ones-iii) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/kamalini-14/github-learn/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kamalini-14/github-learn/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/kamalini-14/github-learn/tree/master/1652-defuse-the-bomb) |
 ## Binary Search
@@ -49,8 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/kamalini-14/github-learn/tree/master/0326-power-of-three) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/kamalini-14/github-learn/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/kamalini-14/github-learn/tree/master/0326-power-of-three) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/kamalini-14/github-learn/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
