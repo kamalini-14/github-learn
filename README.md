@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/kamalini-14/github-learn/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/kamalini-14/github-learn/tree/master/0904-fruit-into-baskets) |
+| [0980-unique-paths-iii](https://github.com/kamalini-14/github-learn/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/kamalini-14/github-learn/tree/master/1004-max-consecutive-ones-iii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kamalini-14/github-learn/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kamalini-14/github-learn/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kamalini-14/github-learn/tree/master/1232-check-if-it-is-a-straight-line) |
+## Backtracking
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/kamalini-14/github-learn/tree/master/0980-unique-paths-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/kamalini-14/github-learn/tree/master/0980-unique-paths-iii) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/kamalini-14/github-learn/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
