@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamalini-14/github-learn/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0447-number-of-boomerangs](https://github.com/kamalini-14/github-learn/tree/master/0447-number-of-boomerangs) |
 | [0567-permutation-in-string](https://github.com/kamalini-14/github-learn/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/kamalini-14/github-learn/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0447-number-of-boomerangs](https://github.com/kamalini-14/github-learn/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kamalini-14/github-learn/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/kamalini-14/github-learn/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/kamalini-14/github-learn/tree/master/0904-fruit-into-baskets) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/kamalini-14/github-learn/tree/master/0326-power-of-three) |
+| [0447-number-of-boomerangs](https://github.com/kamalini-14/github-learn/tree/master/0447-number-of-boomerangs) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kamalini-14/github-learn/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Recursion
 |  |
