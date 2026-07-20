@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kamalini-14/github-learn/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kamalini-14/github-learn/tree/master/0059-spiral-matrix-ii) |
 | [0447-number-of-boomerangs](https://github.com/kamalini-14/github-learn/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kamalini-14/github-learn/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/kamalini-14/github-learn/tree/master/0485-max-consecutive-ones) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kamalini-14/github-learn/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kamalini-14/github-learn/tree/master/0059-spiral-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/kamalini-14/github-learn/tree/master/0980-unique-paths-iii) |
 ## Greedy
 |  |
@@ -90,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kamalini-14/github-learn/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kamalini-14/github-learn/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
