@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kamalini-14/github-learn/tree/master/0054-spiral-matrix) |
 | [0447-number-of-boomerangs](https://github.com/kamalini-14/github-learn/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kamalini-14/github-learn/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/kamalini-14/github-learn/tree/master/0485-max-consecutive-ones) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kamalini-14/github-learn/tree/master/0054-spiral-matrix) |
 | [0980-unique-paths-iii](https://github.com/kamalini-14/github-learn/tree/master/0980-unique-paths-iii) |
 ## Greedy
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kamalini-14/github-learn/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kamalini-14/github-learn/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
