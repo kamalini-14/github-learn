@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kamalini-14/github-learn/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/kamalini-14/github-learn/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/kamalini-14/github-learn/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/kamalini-14/github-learn/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kamalini-14/github-learn/tree/master/0059-spiral-matrix-ii) |
 | [0447-number-of-boomerangs](https://github.com/kamalini-14/github-learn/tree/master/0447-number-of-boomerangs) |
@@ -93,4 +95,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kamalini-14/github-learn/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kamalini-14/github-learn/tree/master/0059-spiral-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kamalini-14/github-learn/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kamalini-14/github-learn/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kamalini-14/github-learn/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
