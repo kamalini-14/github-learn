@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kamalini-14/github-learn/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/kamalini-14/github-learn/tree/master/0567-permutation-in-string) |
+| [0876-middle-of-the-linked-list](https://github.com/kamalini-14/github-learn/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kamalini-14/github-learn/tree/master/0187-repeated-dna-sequences) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kamalini-14/github-learn/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
