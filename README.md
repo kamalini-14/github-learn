@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/kamalini-14/github-learn/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/kamalini-14/github-learn/tree/master/0326-power-of-three) |
 ## Geometry
 |  |
@@ -131,5 +132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/kamalini-14/github-learn/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kamalini-14/github-learn/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
