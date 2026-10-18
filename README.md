@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kamalini-14/github-learn/tree/master/0100-same-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kamalini-14/github-learn/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Graph Theory
 |  |
@@ -166,4 +167,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kamalini-14/github-learn/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kamalini-14/github-learn/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kamalini-14/github-learn/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kamalini-14/github-learn/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
