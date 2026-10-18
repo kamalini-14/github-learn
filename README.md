@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kamalini-14/github-learn/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/kamalini-14/github-learn/tree/master/0101-symmetric-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kamalini-14/github-learn/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Graph Theory
 |  |
@@ -171,12 +172,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kamalini-14/github-learn/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/kamalini-14/github-learn/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kamalini-14/github-learn/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/kamalini-14/github-learn/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/kamalini-14/github-learn/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/kamalini-14/github-learn/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
