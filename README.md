@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamalini-14/github-learn/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/kamalini-14/github-learn/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/kamalini-14/github-learn/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/kamalini-14/github-learn/tree/master/0187-repeated-dna-sequences) |
 | [0447-number-of-boomerangs](https://github.com/kamalini-14/github-learn/tree/master/0447-number-of-boomerangs) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kamalini-14/github-learn/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/kamalini-14/github-learn/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/kamalini-14/github-learn/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/kamalini-14/github-learn/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kamalini-14/github-learn/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kamalini-14/github-learn/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kamalini-14/github-learn/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kamalini-14/github-learn/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/kamalini-14/github-learn/tree/master/0127-word-ladder) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kamalini-14/github-learn/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Graph Theory
 |  |
@@ -197,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kamalini-14/github-learn/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/kamalini-14/github-learn/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kamalini-14/github-learn/tree/master/0111-minimum-depth-of-binary-tree) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/kamalini-14/github-learn/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
