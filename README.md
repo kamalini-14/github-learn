@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/kamalini-14/github-learn/tree/master/0447-number-of-boomerangs) |
 | [0567-permutation-in-string](https://github.com/kamalini-14/github-learn/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/kamalini-14/github-learn/tree/master/0904-fruit-into-baskets) |
+| [0981-time-based-key-value-store](https://github.com/kamalini-14/github-learn/tree/master/0981-time-based-key-value-store) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/kamalini-14/github-learn/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/kamalini-14/github-learn/tree/master/0187-repeated-dna-sequences) |
 | [0567-permutation-in-string](https://github.com/kamalini-14/github-learn/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/kamalini-14/github-learn/tree/master/0981-time-based-key-value-store) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kamalini-14/github-learn/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kamalini-14/github-learn/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0981-time-based-key-value-store](https://github.com/kamalini-14/github-learn/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/kamalini-14/github-learn/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/kamalini-14/github-learn/tree/master/0127-word-ladder) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/kamalini-14/github-learn/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
