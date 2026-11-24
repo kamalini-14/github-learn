@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/kamalini-14/github-learn/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/kamalini-14/github-learn/tree/master/1652-defuse-the-bomb) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kamalini-14/github-learn/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kamalini-14/github-learn/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/kamalini-14/github-learn/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/kamalini-14/github-learn/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1652-defuse-the-bomb](https://github.com/kamalini-14/github-learn/tree/master/1652-defuse-the-bomb) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kamalini-14/github-learn/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kamalini-14/github-learn/tree/master/0326-power-of-three) |
 | [0447-number-of-boomerangs](https://github.com/kamalini-14/github-learn/tree/master/0447-number-of-boomerangs) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kamalini-14/github-learn/tree/master/1232-check-if-it-is-a-straight-line) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kamalini-14/github-learn/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
 | ------- |
@@ -211,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/kamalini-14/github-learn/tree/master/0981-time-based-key-value-store) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kamalini-14/github-learn/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/kamalini-14/github-learn/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
