@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/kamalini-14/github-learn/tree/master/0326-power-of-three) |
 | [0447-number-of-boomerangs](https://github.com/kamalini-14/github-learn/tree/master/0447-number-of-boomerangs) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/kamalini-14/github-learn/tree/master/1232-check-if-it-is-a-straight-line) |
+| [3360-stone-removal-game](https://github.com/kamalini-14/github-learn/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kamalini-14/github-learn/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kamalini-14/github-learn/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kamalini-14/github-learn/tree/master/0059-spiral-matrix-ii) |
+| [3360-stone-removal-game](https://github.com/kamalini-14/github-learn/tree/master/3360-stone-removal-game) |
 ## Dynamic Programming
 |  |
 | ------- |
