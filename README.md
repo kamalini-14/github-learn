@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kamalini-14/github-learn/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kamalini-14/github-learn/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/kamalini-14/github-learn/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/kamalini-14/github-learn/tree/master/0119-pascals-triangle-ii) |
 | [0447-number-of-boomerangs](https://github.com/kamalini-14/github-learn/tree/master/0447-number-of-boomerangs) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kamalini-14/github-learn/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/kamalini-14/github-learn/tree/master/0485-max-consecutive-ones) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kamalini-14/github-learn/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/kamalini-14/github-learn/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kamalini-14/github-learn/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/kamalini-14/github-learn/tree/master/0119-pascals-triangle-ii) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kamalini-14/github-learn/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Stack
 |  |
