@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/kamalini-14/github-learn/tree/master/1652-defuse-the-bomb) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/kamalini-14/github-learn/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/kamalini-14/github-learn/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kamalini-14/github-learn/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kamalini-14/github-learn/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kamalini-14/github-learn/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kamalini-14/github-learn/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/kamalini-14/github-learn/tree/master/0119-pascals-triangle-ii) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/kamalini-14/github-learn/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/kamalini-14/github-learn/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
